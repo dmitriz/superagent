@@ -31,7 +31,7 @@
     "methods": "^1.1.2",
     "mime": "^2.4.3",
     "qs": "^6.7.0",
-    "readable-stream": "^3.4.0",
+    "readable-stream": "^3.6.0",
     "semver": "^6.1.1"
   },
   "devDependencies": {

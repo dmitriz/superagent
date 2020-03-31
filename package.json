@@ -30,7 +30,7 @@
     "formidable": "^1.2.1",
     "methods": "^1.1.2",
     "mime": "^2.4.3",
-    "qs": "^6.7.0",
+    "qs": "^6.9.3",
     "readable-stream": "^3.4.0",
     "semver": "^6.1.1"
   },

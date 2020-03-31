@@ -27,7 +27,7 @@
     "cookiejar": "^2.1.2",
     "debug": "^4.1.1",
     "form-data": "^2.3.3",
-    "formidable": "^1.2.1",
+    "formidable": "^1.2.2",
     "methods": "^1.1.2",
     "mime": "^2.4.3",
     "qs": "^6.7.0",
